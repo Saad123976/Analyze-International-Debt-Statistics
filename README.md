@@ -18,7 +18,7 @@ This project involves analyzing international debt statistics using SQL queries 
 
 **Average Debt by Indicator:** Computed the average debt for each debt indicator to identify which indicators have the highest average debt.
 
-**Highest Principal Repayments: **Found the country and indicator associated with the highest recorded principal repayments.
+**Highest Principal Repayments:** Found the country and indicator associated with the highest recorded principal repayments.
 
 **Most Common Debt Indicator:** Identified the most frequently reported debt indicator.
 
