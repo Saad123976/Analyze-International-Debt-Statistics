@@ -34,11 +34,11 @@ This project involves analyzing international debt statistics using SQL queries 
 
 **Highest Debt Country:** Identified the country with the highest total debt, pointing to potential economic concerns.
 
-**Average Debt by Indicator: **Revealed the indicators with the highest average debt, highlighting key areas of focus.
+**Average Debt by Indicator:** Revealed the indicators with the highest average debt, highlighting key areas of focus.
 
 **Principal Repayments:** Pinpointed the highest amount of principal repayments, offering insights into significant debt repayments.
 
-**Most Common Indicator: **Determined the most common debt indicator, which may reflect prevalent debt measurement practices.
+**Most Common Indicator:** Determined the most common debt indicator, which may reflect prevalent debt measurement practices.
 
 **Top Debt Issues:** Highlighted countries with the highest single debt values, indicating areas with critical debt issues.
 
